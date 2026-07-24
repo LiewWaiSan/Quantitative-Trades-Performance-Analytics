@@ -49,7 +49,7 @@ Breaks down micro-level behaviors, assessing efficiency, win/loss sizing, and se
 ---
 
 ## 🚀 Tech Stack Used
-* **Data Visualization / BI Tool:** Power BI / Excel *(Adjust based on your tool)*
+* **Data Visualization / BI Tool:** Power BI / Excel
 * **Data Transformation:** Power Query
 * **Modeling Language:** DAX (Data Analysis Expressions) for custom calculated columns and measures.
 
